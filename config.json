@@ -1,0 +1,9 @@
+{
+  "db": {
+    "dialect":"mysql",
+    "host": "127.0.0.1",
+    "name": "fordomain",
+    "user": "root",
+    "password": "qwerty"
+  }
+}
